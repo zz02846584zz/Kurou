@@ -1,0 +1,1 @@
+// 自動注入api controller，使用fastify-decorate
